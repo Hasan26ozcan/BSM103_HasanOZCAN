@@ -1,0 +1,14 @@
+kalem
+kitap
+bilgisayar
+kitap
+masa
+sıra
+defter
+fare
+masa
+bilgisayar
+universite
+bartin
+bartin
+üniversite
